@@ -1,0 +1,33 @@
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.AssemblyReference.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe.config
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.dll
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.xml
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CopyComplete
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\OneDrive - adesso Group\Desktop\SQL Parameter Replacer\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe.config
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.dll
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.xml
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.AssemblyReference.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CopyComplete
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\OneDrive - adesso Group\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe.config
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.dll
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.xml
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.AssemblyReference.cache
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CopyComplete
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb

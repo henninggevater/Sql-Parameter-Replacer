@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstrumIT.Argos.NHibernateSqlLogfileEvaluator", "AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj", "{9F859831-3699-4E20-981F-DC1AECC97366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateSqlLogfileEvaluator", "..\NHibernateSqlLogfileEvaluator\NHibernateSqlLogfileEvaluator.csproj", "{C7191199-37E6-4538-8C78-45D3252819DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F859831-3699-4E20-981F-DC1AECC97366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F859831-3699-4E20-981F-DC1AECC97366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F859831-3699-4E20-981F-DC1AECC97366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F859831-3699-4E20-981F-DC1AECC97366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7191199-37E6-4538-8C78-45D3252819DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7191199-37E6-4538-8C78-45D3252819DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7191199-37E6-4538-8C78-45D3252819DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7191199-37E6-4538-8C78-45D3252819DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABB5F13-C9D2-44A6-8A79-9859A5EFED02}
+	EndGlobalSection
+EndGlobal

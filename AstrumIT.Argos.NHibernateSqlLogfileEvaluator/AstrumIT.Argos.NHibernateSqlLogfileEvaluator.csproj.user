@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>INSERT INTO [IAM002_A] %28 [Abort], [Active], [InputCardCount], [Description], [EndDate], [EndTimestamp], [EndTime], [ErrorNo], [ErrorLine], [CompanyID], [InputCards_1], [InputCards_2], [InputCards_3], [InputCards_4], [InputCards_5], [InputCards_6], [InputCards_7], [InputCards_8], [InputCards_9], [InputCards_10], [InputCards_11], [InputCards_12], [InputCards_13], [KPIID], [Program], [Process], [ProcessID], [StartDate], [StartTimeStamp], [StartTime], [StateDWS], [Text], [Type], [RepeatRhythm], [RepeatTime] %29
+        VALUES %28 %40P1    , %40P2     , %40P3             , %40P4          , %40P5      , %40P6           , %40P7      , %40P8      , %40P9        , %40P10       , %40P11          , %40P12          , %40P13          , %40P14          , %40P15          , %40P16          , %40P17          , %40P18          , %40P19          , %40P20           , %40P21           , %40P22           , %40P23           , %40P24   , %40P25     , %40P26     , %40P27       , %40P28       , %40P29            , %40P30       , %40P31      , %40P32  , %40P33  , %40P34          , %40P35         %29
+        SELECT CONVERT%28BIGINT, SCOPE_IDENTITY%28%29%29
+        %27,N%27%40P1 varchar%281%29,%40P2 varchar%281%29,%40P3 smallint,%40P4 varchar%2840%29,%40P5 int,%40P6 varbinary%288%29,%40P7 int,%40P8 int,%40P9 smallint,%40P10 smallint,%40P11 varchar%2880%29,%40P12 varchar%2880%29,%40P13 varchar%2880%29,%40P14 varchar%2880%29,%40P15 varchar%2880%29,%40P16 varchar%2880%29,%40P17 varchar%2880%29,%40P18 varchar%2880%29,%40P19 varchar%2880%29,%40P20 varchar%2880%29,%40P21 varchar%2880%29,%40P22 varchar%2880%29,%40P23 varchar%2880%29,%40P24 smallint,%40P25 varchar%288%29,%40P26 varchar%2830%29,%40P27 varchar%2816%29,%40P28 int,%40P29 varbinary%288%29,%40P30 int,%40P31 varchar%282%29,%40P32 varchar%28100%29,%40P33 varchar%2820%29,%40P34 varchar%281%29,%40P35 int%27,%40P1=%27 %27,%40P2=NULL,%40P3=1,%40P4=NULL,%40P5=0,%40P6=0x2020202020202020,%40P7=0,%40P8=NULL,%40P9=NULL,%40P10=1,%40P11=%2701:20200630:0000000:0000000%27,%40P12=%27 %27,%40P13=%27 %27,%40P14=%27 %27,%40P15=%27 %27,%40P16=%27 %27,%40P17=%27 %27,%40P18=%27 %27,%40P19=%27 %27,%40P20=%27 %27,%40P21=%27 %27,%40P22=%27 %27,%40P23=%27 %27,%40P24=NULL,%40P25=%27KS037-B%27,%40P26=NULL,%40P27=NULL,%40P28=20220803,%40P29=0xDBE66B527315A800,%40P30=1543515,%40P31=NULL,%40P32=NULL,%40P33=NULL,%40P34=%27 %27,%40P35=NULL
+</StartArguments>
+  </PropertyGroup>
+</Project>
