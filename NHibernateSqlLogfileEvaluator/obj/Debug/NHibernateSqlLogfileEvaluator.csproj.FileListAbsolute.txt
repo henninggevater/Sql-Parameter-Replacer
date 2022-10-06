@@ -52,3 +52,21 @@ C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\NHibernateSqlLogfileEvaluat
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.CopyComplete
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.exe
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.pdb
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\NHibernateSqlLogfileEvaluator.App.exe.config
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\NHibernateSqlLogfileEvaluator.App.exe
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\NHibernateSqlLogfileEvaluator.App.pdb
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\PoorMansTSqlFormatterLib35.dll
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\log4net.dll
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe.config
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\bin\Debug\log4net.xml
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.AssemblyReference.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.MainForm.resources
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.Properties.Resources.resources
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.GenerateResource.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.csproj.CopyComplete
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.exe
+C:\Users\gevater\source\repos\SqlParaReplacer\NHibernateSqlLogfileEvaluator\obj\Debug\NHibernateSqlLogfileEvaluator.App.pdb

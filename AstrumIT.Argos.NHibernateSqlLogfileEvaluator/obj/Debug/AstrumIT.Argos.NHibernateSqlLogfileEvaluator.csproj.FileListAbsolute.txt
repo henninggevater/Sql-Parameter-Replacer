@@ -31,3 +31,14 @@ C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSq
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CopyComplete
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
 C:\Users\gevater\Desktop\AddedSQL Parameter Replacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe.config
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.dll
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\bin\Debug\log4net.xml
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.AssemblyReference.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.csproj.CopyComplete
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.exe
+C:\Users\gevater\source\repos\SqlParaReplacer\AstrumIT.Argos.NHibernateSqlLogfileEvaluator\obj\Debug\AstrumIT.Argos.NHibernateSqlLogfileEvaluator.pdb

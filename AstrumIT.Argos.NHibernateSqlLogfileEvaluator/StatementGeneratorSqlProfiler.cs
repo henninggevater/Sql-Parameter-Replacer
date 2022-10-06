@@ -10,9 +10,8 @@ namespace AstrumIT.Argos.NHibernateSqlLogfileEvaluator
 {
     public class StatemenGeneratorSqlProfiler : StatementGenerator
     {
-        private static readonly Regex varKeyReg = new Regex(@"(?<varName>\@p\d+) (?<varType>[\w\d\(\)]+)");
-        private static readonly Regex varValueReg = new Regex(@"(?<varName>\@p\d+)=(?<varValue>[\'\w\d \-\:]*)");
-
+        private static readonly Regex varNameReg = new Regex(@"(?<varName>\@p\d+) (?<varType>[\w\d\(\)]+)\@p\d+=(?<varValue>[\'\w\d \-\:]*)");
+        
         public static new Statement GenerateStatement(string statementWithArguments)
         {
             if (statementWithArguments == null)
@@ -27,7 +26,7 @@ namespace AstrumIT.Argos.NHibernateSqlLogfileEvaluator
         private static Dictionary<string, string> ExtractParamsAndValues(string argStr, string argStr2 = "")
         {
             Dictionary<string, string> paramsAndValues = new Dictionary<string, string>();
-            string[] str = argStr.Split(',');
+            string[] str = argStr.Replace("'","").Split(',');
             string[] str2 = argStr2.Split(',');
             string[] args = new string[str.Length/2];
 
@@ -47,10 +46,9 @@ namespace AstrumIT.Argos.NHibernateSqlLogfileEvaluator
           Dictionary<string, string> paramsAndValues,
           string singleArg)
         {
-            Match match1 = StatemenGeneratorSqlProfiler.varKeyReg.Match(singleArg);
-            Match match = StatemenGeneratorSqlProfiler.varValueReg.Match(singleArg);
-            string key = match1.Groups["varName"].Value.Trim();
-            string type = match1.Groups["varType"].Value.Trim();
+            Match match = StatemenGeneratorSqlProfiler.varNameReg.Match(singleArg);
+            string key = match.Groups["varName"].Value.Trim();
+            string type = match.Groups["varType"].Value.Trim();
             string str = match.Groups["varValue"].Value.Trim();
             if (!(key != "") || !(type != "") || !(str != "") || paramsAndValues.ContainsKey(key))
                 return;
