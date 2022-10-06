@@ -21,7 +21,6 @@ namespace AstrumIT.Argos.NHibernateSqlLogfileEvaluator
    {
       this.parametersAndValues = parametersAndValues;
       this.statementBase = statementBase;
-            Console.WriteLine(statementBase);
       this.executable = Regex.Replace(this.StatementBase, Statement.ParameterScheme, (MatchEvaluator) (match => Statement.SelectValue(this.ParametersAndValues, match)));
     }
 
